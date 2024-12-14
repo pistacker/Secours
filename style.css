@@ -50,7 +50,7 @@ h1 {
 .card {
   width: 200px;
   height: 250px;
-  background-color: #4caf50;
+  background-color: blue;
   color: white;
   border-radius: 15px;
   display: flex;
