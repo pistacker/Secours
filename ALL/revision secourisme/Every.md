@@ -1,26 +1,26 @@
 ### **Urgences médicales liées à l'appareil circulatoire :**
 
-1. **Arrêt cardiaque** (déjà traité).
-2. **Infarctus du myocarde** (crise cardiaque).
-3. **AVC** (déjà traité).
-4. **Choc hypovolémique** (hémorragie massive ou déshydratation sévère).
-5. **Choc cardiogénique** (insuffisance de la pompe cardiaque).
-6. **Choc septique** (infection grave).
-7. **Choc anaphylactique** (réaction allergique sévère).
-8. **Embolie pulmonaire** (obstruction d'une artère pulmonaire).
+1. **Arrêt cardiaque** (déjà traité).   xxxxxxxxxxxxxx
+2. **Infarctus du myocarde** (crise cardiaque).  xxxxxxxxxxxxxxx
+3. **AVC** (déjà traité).                                  xxxxxxxxxxxxxx
+4. **Choc hypovolémique** (hémorragie massive ou déshydratation sévère).   xxxxxx
+5. **Choc cardiogénique** (insuffisance de la pompe cardiaque).xxxxxxx
+6. **Choc septique** (infection grave).xxxxxxxxxx
+7. **Choc anaphylactique** (réaction allergique sévère).xxxxxxxxxx
+8. **Embolie pulmonaire** (obstruction d'une artère pulmonaire).xxxxxxxxxxx
 
 ---
 
 ### **Urgences respiratoires :**
 
-1. **Obstruction des voies respiratoires** (étouffement – déjà traité).
-2. **Arrêt respiratoire**.
-3. **Crise d’asthme sévère**.
-4. **Détresse respiratoire aiguë** (insuffisance respiratoire, souvent associée à des pathologies pulmonaires).
-5. **Œdème pulmonaire aigu (OPA)**.
-6. **Pneumothorax** (présence d’air dans la cavité thoracique).
-7. **Hyperventilation** (souvent liée à une crise de panique ou une hypoxie).
-8. **Asphyxie par immersion** (noyade).
+1. **Obstruction des voies respiratoires** (étouffement – déjà traité).xxxxxxx
+2. **Arrêt respiratoire**.                 xxxxxxxxxxxxxxxxxxxx
+3. **Crise d’asthme sévère**.      xxxxxxxxxxxxxxxxxxx
+4. **Détresse respiratoire aiguë** (insuffisance respiratoire, souvent associée à des pathologies pulmonaires).  xxxxxxxxxxxxxxxxxxxxxxxx
+5. **Œdème pulmonaire aigu (OPA)**.  xxxxxxxxxxxxxxxxxxxxx
+6. **Pneumothorax** (présence d’air dans la cavité thoracique). xxxxxxxxxxxxx
+7. **Hyperventilation** (souvent liée à une crise de panique ou une hypoxie).  xxxxxx
+8. **Asphyxie par immersion** (noyade). xxxxxxxxxxxxxx
 
 ---
 
